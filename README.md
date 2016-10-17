@@ -1,0 +1,26 @@
+#Curso de C++:
+
+    - Imprimir en pantalla.
+    - Tipos de datos.
+    - Leer datos de pantalla.
+    - Operadores lógicos y aritméticos
+    - Estructuras de control [if,switch,until].
+    - Estructuras de iteración [for, do-while, while].
+    - Arreglos y matrices.
+    - Punteros:
+        -Punteros.
+        -Punteros a punteros.
+    - Estructuras:
+        -Uniones.
+        -Punteros a estructuras.
+    - Funciones:
+        -paso por valor.
+        -paso por referencia.
+        -punteros a funciones.
+    - Librerías:
+        -Librerías estaticas.
+        -Libŕerías dinámicas.
+    - Sobrecarga de operadores.
+    - Paradigma de orientado a objetos.
+    - Clases.
+        - 
